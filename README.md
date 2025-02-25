@@ -56,11 +56,11 @@ npm run dev
 ## 📸 Screenshots
 <p align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/0b085f18-b53e-4698-935b-1757b9ea0882" width="500"/>
-  <img src="https://github.com/user-attachments/assets/dc8e9066-a6b8-4076-8aba-312fbc4ec98d" width="500"/>
+  <img src="https://github.com/user-attachments/assets/0b085f18-b53e-4698-935b-1757b9ea0882" width="600"/>
+  <img src="https://github.com/user-attachments/assets/dc8e9066-a6b8-4076-8aba-312fbc4ec98d" width="600"/>
   <br>
-  <img src="https://github.com/user-attachments/assets/7dfe3dcb-79be-490f-b798-c25f2fb43ff2" width="500"/>
-  <img src="https://github.com/user-attachments/assets/6407efe9-03cc-4d83-9aee-f0ac8e5a419a" width="500"/>
+  <img src="https://github.com/user-attachments/assets/7dfe3dcb-79be-490f-b798-c25f2fb43ff2" width="600"/>
+  <img src="https://github.com/user-attachments/assets/6407efe9-03cc-4d83-9aee-f0ac8e5a419a" width="600"/>
   <br>
 </p>
 
