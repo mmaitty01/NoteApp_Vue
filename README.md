@@ -1,7 +1,11 @@
 # Note App
 
-## 📌 Overview
 Note App is a simple note-taking application that allows users to add, edit, delete, and read notes. Users can also choose a background color for each note. This application is built using **Vue 3** ,**Tailwind CSS** and **Vite**.
+<p align="center">
+  <br>
+  <img src="https://github.com/user-attachments/assets/c5fe1d2a-e366-421a-abd4-47c47649add3" width="800"/>
+  <br>
+</p>
 
 ## 🚀 Features
 - Add new notes
@@ -36,8 +40,7 @@ To run this project on your local machine, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/note-app.git
-cd note-app
+git clone https://github.com/mmaitty01/NoteApp_Vue.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -51,8 +54,17 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-### ✅ App Homepage
-(Add screenshots of the app here)
+<p align="center">
+  <br>
+  <img src="https://github.com/user-attachments/assets/0b085f18-b53e-4698-935b-1757b9ea0882" width="500"/>
+  <img src="https://github.com/user-attachments/assets/dc8e9066-a6b8-4076-8aba-312fbc4ec98d" width="500"/>
+  <br>
+  <img src="https://github.com/user-attachments/assets/7dfe3dcb-79be-490f-b798-c25f2fb43ff2" width="500"/>
+  <img src="https://github.com/user-attachments/assets/6407efe9-03cc-4d83-9aee-f0ac8e5a419a" width="500"/>
+  <br>
+</p>
+
+
 
 ## 🎯 Usage Guide
 1. Click the **+ Add Note** button to create a new note.
@@ -61,7 +73,7 @@ npm run dev
 4. Click the 🖊️ button to edit or 🗑️ to delete a note.
 5. Click **Read More** to view the note in full-screen mode.
 
-## Packages
+## 📌 Packages
 
 This software uses the following open source packages:
 
