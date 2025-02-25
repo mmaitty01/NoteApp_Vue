@@ -1,10 +1,9 @@
 <template>
-  <div class="hidden bg-blue-500 bg-green-700 bg-yellow-200 "></div>
 
   <div class="p-4 max-w-4xl mx-auto">
     <h1 class="text-xl font-bold mb-4 text-center">📝 Note App</h1>
     
-    <!-- ตาราง 4 คอลัมน์ -->
+    <!-- ตาราง 4 คอลัมน์ในจอขนาดกลางขึ้นไป และ 2 คอลัมในจอขนาดเล็ก -->
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
       <!-- ปุ่มเพิ่มโน้ต -->
       <div class="bg-blue-500 w-50 h-50 npmtext-white flex items-center justify-center p-4 rounded-md cursor-pointer"
@@ -78,6 +77,7 @@ export default {
     const selectedColor = ref('bg-gray-100');
     const colors = ref(['bg-red-200', 'bg-yellow-200', 'bg-green-200','bg-cyan-200','bg-purple-200']);
 
+    //โหลดโน้ตจาก LocalStorage (เมื่อรีเฟรชหน้าโน๊ตจะไม่หาย)
     onMounted(() => {
       const savedNotes = localStorage.getItem('notes');
       if (savedNotes) {
